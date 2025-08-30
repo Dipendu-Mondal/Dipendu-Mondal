@@ -5,7 +5,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="./profile.jpg" alt="Profile" width="200" style="border-radius:50%; box-shadow:0 0 10px #00f2ff;" />
+  <img src="CAD-Engineering2.jpg" alt="Profile" width="200" style="border-radius:50%; box-shadow:0 0 10px #00f2ff;" />
 </p>
 
 <h1 align="center">Hi, I'm Dipendu Mondal👋</h1>
