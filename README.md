@@ -12,9 +12,8 @@
 <h3 align="center">🚀 Mechanical Engineer | 🤖 Structural Designer | 📡 IoT Innovator | 🧠 ML Explorer | ⚛️ Quantum Computing Enthusiast</h3>
 
 <p align="center">
-  <a href="https://x.com/maneet2018"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:mphys2022@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/maneet-chatterjee-778441190/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white" /></a>
+  <a href="mailto:dipendumondal.6296@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dipendu-mondal-8281b6286/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=LinkedIn&logoColor=white" /></a>
   <a href="https://www.kaggle.com/maneetchatterjee"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
 </p>
 
@@ -25,7 +24,7 @@
 - 🏫 3rd Year B.Tech in **Mechanical Engineering**, IIEST Shibpur  
 - 🤖 Building real-time robotics systems, digital twins, and intelligent control pipelines  
 - 🧠 Applying **ML/DL** and **Quantum Computing** in IoT, automation, and physics-based simulations  
-- 🚀 Internships & Projects in **Industrial IoT**, **Robotic Simulations**, **Digital Manufacturing**  
+- 🚀 Internships & Projects in **PowerPlant**, **Additive Manufacturing**  
 - 📊 Data-Driven Engineering, ROS, PyBullet, Isaac Sim, MATLAB  
 - 🛠️ I'm building the future, one sensor and simulation at a time.
 
