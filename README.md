@@ -74,9 +74,21 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdxZTU1aW5xbnQzcG11anRkZm95bzV3ZjZnNDMxeGI4NzhoNmh2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24cyKbwWMakS8Qyziq/giphy.gif" width="500"/>
 
-#### 🧠 3D Printing (AM)
+####  3D Printing (AM)
 
 <img src="1756563089341-image.gif" width="500"/>
+
+#### 🔋 Battery Thermal Management System (CFD)
+
+<img src="1756562588262-image.gif" width="500"/>
+
+#### 🧠 Battery Thermal Management System (CFD)
+
+<img src="1756562588262-image.gif" width="500"/>
+
+#### 🌀 GEnX (Boeing 787)
+
+<img src="1756562693406-image.gif" width="500"/>
 
 ---
 
