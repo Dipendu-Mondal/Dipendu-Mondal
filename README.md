@@ -74,6 +74,10 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdxZTU1aW5xbnQzcG11anRkZm95bzV3ZjZnNDMxeGI4NzhoNmh2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24cyKbwWMakS8Qyziq/giphy.gif" width="500"/>
 
+#### 🧠 Insane F1 Engineering 
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdxZTU1aW5xbnQzcG11anRkZm95bzV3ZjZnNDMxeGI4NzhoNmh2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24cyKbwWMakS8Qyziq/giphy.gif" width="500"/>
+
 ---
 
 ### 🚀 Projects
