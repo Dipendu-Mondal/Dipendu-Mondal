@@ -96,17 +96,9 @@
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneet2004&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneet2004&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipendu-Mondal&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipendu-Mondal&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/maneet2004/maneet2004/blob/output/github-contribution-grid-snake.svg)
-
-
 ---
 
 ### 📫 Let's Connect
