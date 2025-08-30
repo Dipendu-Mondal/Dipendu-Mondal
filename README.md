@@ -36,8 +36,8 @@
 
 | Property                  | Data                                                                 |
 |---------------------------|----------------------------------------------------------------------|
-| **Languages & IDEs**      | Python, C++, Bash, MATLAB / VSCode, Jupyter, ROS tools               |
-| **Frameworks**            | PyTorch, TensorFlow, OpenCV, PyBullet, Gazebo, InfluxDB, Grafana     |
+| **CAD**                   | Solidwork,Fusion,AutoCad,Catia                                       |
+| **CAE**                   | Ansys, Fusion, MATLAB, Solidwork Simulation, ROS tools               |
 | **Domain Knowledge**      | Robotics, IoT, Digital Twins, Predictive Maintenance, Quantum ML     |
 | **Tools & Infra**         | Git, Docker, GitHub Actions, MQTT, WebSockets, Linux                 |
 | **Side Projects – App**   | Smart Vibration Monitor, Robotic Sorting System                      |
