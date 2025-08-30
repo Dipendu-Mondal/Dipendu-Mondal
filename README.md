@@ -38,9 +38,10 @@
 |---------------------------|----------------------------------------------------------------------|
 | **CAD**                   | Solidwork,Fusion,AutoCad,Catia                                       |
 | **CAE**                   | Ansys, Fusion, MATLAB, Solidwork Simulation, ROS tools               |
+| **CAM**                   | UltiMaker Cura, Fusion CAM,ToolPath                                  |
 | **Domain Knowledge**      | Robotics, IoT, Digital Twins, Predictive Maintenance, Quantum ML     |
-| **Tools & Infra**         | Git, Docker, GitHub Actions, MQTT, WebSockets, Linux                 |
-| **Side Projects – App**   | Smart Vibration Monitor, Robotic Sorting System                      |
+| **Tools & Infra**         | Git, Docker, Latex                 |
+| **Language**              | Smart Vibration Monitor, Robotic Sorting System                      |
 | **Side Projects – Web**   | Grafana IoT Dashboards, WebSocket-MQTT Bridges                       |
 | **Current Focus**         | Robot Vision | Digital Twins | Blender & Isaac Sim | Quantum AI      |
 | **CV / Resume**           | [📄 Click here](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view?usp=sharing) |
@@ -49,7 +50,6 @@
 
 ### 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
@@ -62,13 +62,9 @@
 ![PLC](https://img.shields.io/badge/PLC-217346?style=for-the-badge&logo=siemens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-#### ⚛️ Gravitational Wave Simulation
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhndHBmdHM2cm1uajBvc3picmhvenp6OGltcjA4am51anRzOXYyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPlhI5bVW4IBpmM/giphy.gif" width="400"/>
 
 #### 🧠 Insane F1 Engineering 
 
@@ -82,9 +78,9 @@
 
 <img src="1756562588262-image.gif" width="500"/>
 
-#### 🧠 Battery Thermal Management System (CFD)
+#### 🤖 Robotic Arm Simulation (3-DOF / 6-DOF)
 
-<img src="1756562588262-image.gif" width="500"/>
+<img src="1756562743027-image.gif" width="500"/>
 
 #### 🌀 GEnX (Boeing 787)
 
