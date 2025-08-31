@@ -21,13 +21,15 @@
 
 ### 👨🏽‍🔬 About Me
 
-- 🏫 3rd Year B.Tech in **Mechanical Engineering**, IIEST Shibpur  
-- 🤖 Building real-time robotics systems, digital twins, and intelligent control pipelines  
-- 🧠 Applying **ML/DL** and **Quantum Computing** in IoT, automation, and physics-based simulations  
-- 🚀 Internships & Projects in **PowerPlant**, **Additive Manufacturing**  
-- 📊 Data-Driven Engineering, ROS, PyBullet, Isaac Sim, MATLAB  
-- 🛠️ I'm building the future, one sensor and simulation at a time.
+- 🎓 3rd Year B.Tech in Mechanical Engineering, IIEST Shibpur
+-🤖 Focused on Robotics, Automation, and Intelligent Systems
+-🧩 Experience in Digital Twins, IoT, and Control Pipelines
+-⚛️ Exploring Quantum Computing applications in simulation and optimization
+-🚀 Internships & projects in Power Plant Systems and Additive Manufacturing
+-🛠️ Skilled in ANSYS, SolidWorks, MATLAB, Simulink, ROS, PyBullet, Isaac Sim
+-📊 Strong interest in Data-Driven Engineering, Optimization, and Physics-based Modeling
 
+🏆 Winner of CADathon (Design Competition) and active member of IMechE, SAE, SME societies
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
 
 ---
@@ -39,10 +41,9 @@
 | **CAD**                   | Solidwork,Fusion,AutoCad,Catia                                       |
 | **CAE**                   | Ansys, Fusion, MATLAB, Solidwork Simulation, ROS tools               |
 | **CAM**                   | UltiMaker Cura, Fusion CAM,ToolPath                                  |
-| **Domain Knowledge**      | Robotics, IoT, Digital Twins, Predictive Maintenance, Quantum ML     |
-| **Tools & Infra**         | Git, Docker, Latex                 |
-| **Language**              | Smart Vibration Monitor, Robotic Sorting System                      |
-| **Side Projects – Web**   | Grafana IoT Dashboards, WebSocket-MQTT Bridges                       |
+| **Domain Knowledge**      | Robotics, Additive Manufacturing, CNC Machining                      |
+| **Tools & Infra**         | Git, Docker, Latex                                                   |
+| **Language**              | Matlab,SQL,Python(basic),C                                           |
 | **Current Focus**         | Robot Vision | Digital Twins | Blender & Isaac Sim | Quantum AI      |
 | **CV / Resume**           | [📄 Click here](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view?usp=sharing) |
 
