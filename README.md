@@ -79,7 +79,7 @@
 
 #### 🤖 Robotic Arm Simulation (3-DOF / 6-DOF)
 
-<img src="1756562743027-image.gif" width="500"/>
+<img src="transformtraj (1).gif" width="500"/>
 
 #### 🌀 GEnX (Boeing 787)
 
