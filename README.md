@@ -43,8 +43,6 @@
 | **Domain Knowledge**      | Robotics, Additive Manufacturing, CNC Machining                      |
 | **Tools & Infra**         | Git, Docker, Latex                                                   |
 | **Language**              | Matlab,SQL,Python(basic),C                                           |
-| **Current Focus**         | Robot Vision | Digital Twins | Blender & Isaac Sim | Quantum AI      |
-| **CV / Resume**           | [📄 Click here](https://drive.google.com/file/d/1UJ4YjfePSzFzEn3A_ixVTQO6Fih0FTRr/view?usp=sharing) |
 
 ---
 
