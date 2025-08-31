@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maneet2004/maneet2004/main/assets/banner.gif" alt="Maneet Chatterjee Banner" width="100%" />
-</p>
-
 <!-- Profile Image -->
 <p align="center">
   <img src="CAD-Engineering2.jpg" alt="Profile" width="200" style="border-radius:50%; box-shadow:0 0 10px #00f2ff;" />
@@ -22,9 +17,7 @@
 ### 👨🏽‍🔬 About Me
 
 -🎓 3rd Year B.Tech in Mechanical Engineering, IIEST Shibpur<br>
--🤖 Focused on Robotics, Automation, and Intelligent Systems<br>
--🧩 Experience in Digital Twins, IoT, and Control Pipelines<br>
--⚛️ Exploring Quantum Computing applications in simulation and optimization<br>
+-🤖 Focused on Design, Analysis, Robotics & Automation<br>
 -🚀 Internships & projects in Power Plant Systems and Additive Manufacturing<br>
 -🛠️ Skilled in ANSYS, SolidWorks, MATLAB, Simulink, ROS, PyBullet, Isaac Sim<br>
 -📊 Strong interest in Data-Driven Engineering, Optimization, and Physics-based Modeling<br>
