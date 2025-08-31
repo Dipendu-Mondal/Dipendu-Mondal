@@ -21,15 +21,14 @@
 
 ### 👨🏽‍🔬 About Me
 
--🎓 3rd Year B.Tech in Mechanical Engineering, IIEST Shibpur
--🤖 Focused on Robotics, Automation, and Intelligent Systems
--🧩 Experience in Digital Twins, IoT, and Control Pipelines
--⚛️ Exploring Quantum Computing applications in simulation and optimization
--🚀 Internships & projects in Power Plant Systems and Additive Manufacturing
--🛠️ Skilled in ANSYS, SolidWorks, MATLAB, Simulink, ROS, PyBullet, Isaac Sim
--📊 Strong interest in Data-Driven Engineering, Optimization, and Physics-based Modeling
-
-🏆 Winner of CADathon (Design Competition) and active member of IMechE, SAE, SME societies
+-🎓 3rd Year B.Tech in Mechanical Engineering, IIEST Shibpur<br>
+-🤖 Focused on Robotics, Automation, and Intelligent Systems<br>
+-🧩 Experience in Digital Twins, IoT, and Control Pipelines<br>
+-⚛️ Exploring Quantum Computing applications in simulation and optimization<br>
+-🚀 Internships & projects in Power Plant Systems and Additive Manufacturing<br>
+-🛠️ Skilled in ANSYS, SolidWorks, MATLAB, Simulink, ROS, PyBullet, Isaac Sim<br>
+-📊 Strong interest in Data-Driven Engineering, Optimization, and Physics-based Modeling<br>
+-🏆 Winner of CADathon (Design Competition) and active member of IMechE, SAE, SME societies
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300"/>
 
 ---
