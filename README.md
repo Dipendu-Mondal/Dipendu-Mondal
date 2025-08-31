@@ -21,7 +21,7 @@
 
 ### 👨🏽‍🔬 About Me
 
-- 🎓 3rd Year B.Tech in Mechanical Engineering, IIEST Shibpur
+-🎓 3rd Year B.Tech in Mechanical Engineering, IIEST Shibpur
 -🤖 Focused on Robotics, Automation, and Intelligent Systems
 -🧩 Experience in Digital Twins, IoT, and Control Pipelines
 -⚛️ Exploring Quantum Computing applications in simulation and optimization
