@@ -69,6 +69,10 @@
 
 <img src="1756563089341-image.gif" width="500"/>
 
+#### 🔋 Structural Analysis
+
+<img src="file.gif" width="500"/>
+
 #### 🔋 Battery Thermal Management System (CFD)
 
 <img src="1756562588262-image.gif" width="500"/>
