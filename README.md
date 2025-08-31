@@ -56,11 +56,6 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FD7E14?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-217346?style=for-the-badge&logo=siemens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
