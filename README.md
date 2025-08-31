@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Dipendu Mondal👋</h1>
-<h3 align="center">🚀 Mechanical Engineer | 🖥️ Computer-Aided Design (CAD) | 🛠️ Computer-Aided Manufacturing | 🏗️ Structural Analyst | 🤖 Robotics & IoT | 📊 Data-Driven Engineering </h3>
+<h3 align="center">🚀 Mechanical Engineer | 🖥️ Computer-Aided Design (CAD) | 🛠️ Computer-Aided Manufacturing <br> 🏗️ Structural Analyst | 🤖 Robotics & IoT | 📊 Data-Driven Engineering </h3>
 
 <p align="center">
   <a href="mailto:dipendumondal.6296@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white" /></a>
