@@ -60,7 +60,7 @@
 
 <img src="1756563089341-image.gif" width="500"/>
 
-#### 🔋 Structural Analysis
+####  Structural Analysis
 
 <img src="file.gif" width="500"/>
 
@@ -78,15 +78,15 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Project
 
 | Project | Description |
 |--------|-------------|
-| 🔧 **IoT-Based Vibration Monitor** | Sensor network using ESP32, MQTT, WebSockets, and Grafana for predictive maintenance. |
-| 🤖 **Robotic Sorting System** | Real-time robotic arm with camera + computer vision using Blender and Isaac Sim. |
-| 🌐 **Quantum ML Pipeline** | Hybrid classical-quantum classifiers for engineering datasets using Pennylane. |
-| 📈 **Real-time Grafana Dashboards** | Visualize multi-node sensor data for anomaly detection. |
-| 🔭 **Digital Twin Simulator** | Synced digital-physical robotic system with simulation feedback loop. |
+| 🔧 **G-code to APT code** | Sensor network using ESP32, MQTT, WebSockets, and Grafana for predictive maintenance. |
+| 🤖 **Battery Thermal Management System** | Real-time robotic arm with camera + computer vision using Blender and Isaac Sim. |
+| 🌐 **Structural Analysis of Lifting Lug** | Hybrid classical-quantum classifiers for engineering datasets using Pennylane. |
+| 📈 **3DOF/6DOF Robotic Arm** | Visualize multi-node sensor data for anomaly detection. |
+| 🔭 **3d Printer Optimization** | Synced digital-physical robotic system with simulation feedback loop. |
 
 ---
 
