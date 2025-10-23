@@ -82,20 +82,11 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔧 **G-code to APT code** | Sensor network using ESP32, MQTT, WebSockets, and Grafana for predictive maintenance. |
-| 🤖 **Battery Thermal Management System** | Real-time robotic arm with camera + computer vision using Blender and Isaac Sim. |
-| 🌐 **Structural Analysis of Lifting Lug** | Hybrid classical-quantum classifiers for engineering datasets using Pennylane. |
-| 📈 **3DOF/6DOF Robotic Arm** | Visualize multi-node sensor data for anomaly detection. |
-| 🔭 **3d Printer Optimization** | Synced digital-physical robotic system with simulation feedback loop. |
-
----
-
-### 🌍 Now
-
-- 📚 Reading: *“Quantum Computation and Quantum Information” by Nielsen & Chuang*  
-- 🔭 Building: Real-time sorting robot with computer vision & ML feedback  
-- 💡 Learning: Advanced robotics control | Reinforcement Learning | ROS2 & Gazebo Sim  
-- 🧠 Exploring: Self-supervised learning in robotic perception
+| 🔧 **G-code to APT code** |Converted CNC G-code to APT format for automated toolpath generation. |
+| 🤖 **Battery Thermal Management System** | Analyzed effect of cooling velocity on battery temperature using ANSYS simulations. |
+| 🌐 **Structural Analysis of Lifting Lug** |  Performed stress and deformation analysis in ANSYS to determine factor of safety. |
+| 📈 **3DOF/6DOF Robotic Arm** | Designed and simulated robotic arms with kinematic modeling and motion control. |
+| 🔭 **3d Printer Optimization** | Improved print accuracy through structural and motion simulation of printer components. |
 
 ---
 
